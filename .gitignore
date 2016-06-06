@@ -1,3 +1,7 @@
+.gitignore
 .ipynb_checkpoints/
 answers/
+<<<<<<< HEAD
 .gitignore
+=======
+>>>>>>> master
